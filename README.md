@@ -55,7 +55,7 @@ Web エンジニアを目指そうと思った経緯は、
 - BEM
 - CSSinJS (styled-components)
 
-###　現在学習中
+### 現在学習中
 
 - Typescript
 - Next.js
@@ -82,24 +82,21 @@ Web エンジニアを目指そうと思った経緯は、
 #### Todo アプリ
 
 - 実装内容
-- タスクの追加,削除、編集、完了
-
+  - タスクの追加,削除、編集、完了
 - 制作経緯
-- React,Redux 学習の基礎を終え、dom 操作の基本となる CURD 処理を学ぶため。
-- React の Hooks と Redux の Flax-Flow についての理解を深めるため。
-
+  - React,Redux 学習の基礎を終え、dom 操作の基本となる CURD 処理を学ぶため。
+  - React の Hooks と Redux の Flax-Flow についての理解を深めるため。
 - ソースコード
-- (https://github.com/gumipo/Todo-app)
-- Redux を使った State 管理のバージョンも作成(https://github.com/gumipo/Todo-redux/tree/master)
-
+  - (https://github.com/gumipo/Todo-app)
+  - Redux を使った State 管理のバージョンも作成(https://github.com/gumipo/Todo-redux/tree/master)
 - 開発環境
-- React, Redux , MaterialUI
+  - React, Redux , MaterialUI
 
 #### Camp 上のまとめサービス
 
 - 実装内容
-- FirebaseAuthentication を使用した SNS ログイン機能
-- FireStore と Firebase
+  - FirebaseAuthentication を使用した SNS ログイン機能
+  - FireStore と Firebase
 
 ## 強み
 
