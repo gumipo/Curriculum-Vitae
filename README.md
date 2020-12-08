@@ -115,17 +115,8 @@
 
 #### Qiita のクソアプリアドベントカレンダーへの参加
 
-### 実務案件
 
-#### UXDAYS/TOKYO 様の用語クイズアプリ
-
-- 実装内容
-  - ランダムにクイズ情報を API から取得し出題する。
-  - figma のデザインに沿ってコーディング(Top ページ,クイズ出題ページ、正解、不正解ページ)
-    公開 URL
-  - (http://glossary-quiz.kokush.in/)
-- 開発環境
-  - React , Redux , React-Router , Redux-thunk , Styled-Components
+  
 
 ## 強み
 
